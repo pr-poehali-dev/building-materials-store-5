@@ -259,7 +259,7 @@ export default function Index() {
 
             <p className="text-[#8a8880] text-lg leading-relaxed max-w-md mb-10 opacity-0 animate-fade-up"
                style={{ animationDelay: "0.2s", animationFillMode: "both" }}>
-              Бетон, доски, брус, кровля — оптом и в розницу. Собственный склад 8&nbsp;000&nbsp;м². Доставка по городу за 4&nbsp;часа.
+              Бетон, доски, брус, кровля — оптом и в розницу. Доставка по городу за 4&nbsp;часа.
             </p>
 
             <div className="flex flex-wrap gap-4 opacity-0 animate-fade-up"
